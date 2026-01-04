@@ -22,7 +22,7 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ---
 
-## 🧠 Skills that keep the systems running
+## 🧠 Skills
 
 ### 💻 Programming languages
 - **Python** 🐍  
@@ -47,7 +47,7 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ---
 
-## 🎓 Education (Yes, I like studying)
+## 🎓 Education
 
 🎓 **Master’s Degree – Digital Systems & Services (S&SN)**  
 *University of Geneva – CUI*  
