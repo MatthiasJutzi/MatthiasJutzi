@@ -1,113 +1,138 @@
-<h1 align="center">Hi 👋, I'm Matthias Jutzi</h1>
-<h3 align="center">Junior Developer Seeking IT & DevOps Opportunities</h3>
+🚀 Junior Developer With a Taste for Cloud & Clever Code
 
-- 🌱 **Currently learning** Microsoft Azure and GitHub through Microsoft certifications
-- 📫 **How to reach me**: [matthias.jutzi@bluewin.ch](mailto:matthias.jutzi@bluewin.ch)
+Hey 👋 I’m Matthias Jutzi, a junior developer who enjoys turning complex systems into things that actually work.
+Currently leveling up in IT, Cloud, and DevOps, with a strong academic backbone and a growing obsession with clean architectures.
 
----
+“Build it properly, automate it wisely, and document it like someone else has to maintain it.” — Me, probably
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/matthias-jutzi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+🎯 What I’m Working On
 
----
+🌱 Currently Learning
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" /></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a>
-</p>
+Microsoft Azure & cloud services
 
----
+GitHub workflows, CI/CD, and DevOps best practices
 
-<h3 align="left">Education:</h3>
-- **Master’s degree in Digital Systems and Services (S&SN)**  
-  *University of Geneva, Centre Universitaire d’Informatique (CUI)*  
-  *Expected: September 2025*  
-  - Master's thesis: "Exploitation of data stored in knowledge graphs and creation of Archive AI (Ontology-based application)"  
-  - Thesis grade: 5.75/6  
-  - Overall average: 5.42/6
+Turning academic theory into production-ready solutions
 
-- **Bachelor's degree in Information Systems and Service Science (SISS)**  
-  *University of Geneva, Centre Universitaire d’Informatique (CUI)*  
-  *Graduated: February 2022*  
-  - Overall average: 4.75/6
+📫 Reach me at:
+matthias.jutzi@bluewin.ch
 
-- **Baccalaureate ES (Economic and Social)**  
-  *La Présentation de Marie, Saint-Julien en Genevois, France*  
-  *Graduated: 2016*
+🔗 LinkedIn: (add your link here)
 
----
+🧠 Skills That Keep the Systems Running
+💻 Programming Languages
 
-<h3 align="left">Military Service:</h3>
-- **Recruit School (Telematics Soldier)**  
-  *IK RS 61-1, Frauenfeld TG*  
-  - Service completed: January to May 2022  
-  - Days left: 41
+Python 🐍
 
----
+JavaScript ⚡
 
-<h3 align="left">Professional Experience:</h3>
+SPARQL (yes, I enjoy querying graphs)
 
-- **2023–2024: Hackathons as Developer**  
-  - ITU, WSIS +20 Forum, ONU 2024
+🧩 Frameworks & Libraries
 
-- **2024: Web Developer at Movement Tribe Geneva**  
-  - Developed a gym website (frontend, backend, and database)
+React.js & Angular
 
-- **2023: Software Developer at EyeSmart, Geneva**  
-  - Created an image recognition chatbot solution to improve user experience and automate responses using Rasa framework
+FastAPI, Flask
 
+PyTorch (when AI gets involved)
 
----
+Node.js
 
-<h3 align="left">Skills:</h3>
+☁️ Cloud, DevOps & Orchestration
 
-**Programming:**  
-- Python, JavaScript, SPARQL  
+Docker 🐳
 
-**Orchestration:**  
-- Docker, Kubernetes, Helm  
+Kubernetes & Helm
 
-**Frameworks:**  
-- React.js, Angular, FastAPI  
+Azure (in progress, certifications loading…)
 
-**Databases:**  
-- MySQL, PostgreSQL, MongoDB  
+Git (GitHub & GitLab)
 
-**Version Control:**  
-- Git (GitHub, GitLab)  
+🗄️ Databases
 
----
+MySQL
 
-<h3 align="left">Extracurricular Activities:</h3>
-- IT & programming projects, database management, machine learning
-- Badminton: Interclub championship (4th league) with Perly-Certoux Club (since 2017)
-- Cinema enthusiast
+PostgreSQL
 
----
+MongoDB
 
-<h3 align="left">Languages:</h3>
-- **French:** Native  
-- **English:** B2  
-- **German:** Basic knowledge  
+Knowledge Graphs & Ontologies 🧠
 
----
+🎓 Education (Yes, I Like Studying)
+
+🎓 Master’s Degree – Digital Systems & Services (S&SN)
+University of Geneva – CUI
+📅 Expected: September 2025
+
+Master’s Thesis:
+“Exploitation of data stored in knowledge graphs and creation of Archive AI (Ontology-based application)”
+
+Thesis Grade: ⭐ 5.75 / 6
+
+Overall Average: 5.42 / 6
+
+🎓 Bachelor’s Degree – Information Systems & Service Science (SISS)
+University of Geneva – CUI
+📅 Graduated: February 2022
+
+Overall Average: 4.75 / 6
+
+🎓 Baccalaureate ES (Economic & Social)
+La Présentation de Marie, France
+📅 2016
+
+🛠️ Professional Experience
+💡 Hackathon Developer (2023–2024)
+
+ITU
+
+WSIS +20 Forum
+
+United Nations (ONU 2024)
+
+Fast-paced teamwork, real-world problem solving, and shipping under pressure.
+
+🌐 Web Developer — Movement Tribe Geneva (2024)
+
+Built a full gym website
+
+Frontend, backend, and database included
+
+Focus on usability, performance, and maintainability
+
+🤖 Software Developer — EyeSmart, Geneva (2023)
+
+Developed an image recognition chatbot
+
+Improved UX & automated responses
+
+Built using Rasa framework
+
+🪖 Military Service
+
+🎖 Telematics Soldier — Recruit School (IK RS 61-1)
+📍 Frauenfeld TG
+📅 January – May 2022
+
+Service completed
+
+Days remaining: 41
+
+🎮 Beyond the Keyboard
+
+🏸 Badminton – Interclub Championship (4th league) with Perly-Certoux Club (since 2017)
+
+🎬 Cinema enthusiast
+
+🧠 Tech & AI curiosity-driven projects
+
+📊 Databases, ML experiments, and side projects
+
+🌍 Languages
+
+🇫🇷 French: Native
+
+🇬🇧 English: B2
+
+🇩🇪 German: Basic knowledge
