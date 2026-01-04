@@ -1,4 +1,4 @@
-# 🚀 Junior Developer With a Taste for Cloud & DevOps fields
+# 🚀 Junior Developer with a taste for Cloud & DevOps fields
 
 Hi 👋 I’m **Matthias Jutzi**, a junior developer who enjoys turning complex systems into things that *actually work*.  
 Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic background and a growing obsession with **clean architectures**.
@@ -8,7 +8,7 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ---
 
-## 🎯 What I’m Working On
+## 🎯 What I’m working on
 
 🌱 **Currently Learning**
 - Microsoft **Azure** & cloud services  
@@ -22,9 +22,9 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ---
 
-## 🧠 Skills That Keep the Systems Running
+## 🧠 Skills that keep the systems running
 
-### 💻 Programming Languages
+### 💻 Programming languages
 - **Python** 🐍  
 - **JavaScript** ⚡  
 - **SPARQL** (yes, I enjoy querying graphs)
@@ -47,7 +47,7 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ---
 
-## 🎓 Education (Yes, I Like Studying)
+## 🎓 Education (Yes, I like studying)
 
 🎓 **Master’s Degree – Digital Systems & Services (S&SN)**  
 *University of Geneva – CUI*  
@@ -68,7 +68,7 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ---
 
-## 🛠️ Professional Experience
+## 🛠️ Professional experience
 
 ### 💡 Hackathon Developer (2023–2024)
 - **ITU**  
@@ -93,9 +93,9 @@ Fast-paced teamwork, real-world problem solving, and shipping under pressure.
 
 ---
 
-## 🪖 Military Service
+## 🪖 Military service
 
-🎖 **Telematics Soldier — Recruit School (IK RS 61-1)**  
+🎖 **Telematics Soldier — Recruit school (IK RS 61-1)**  
 📍 Frauenfeld TG  
 📅 January – May 2022  
 
@@ -104,7 +104,7 @@ Fast-paced teamwork, real-world problem solving, and shipping under pressure.
 
 ---
 
-## 🎮 Beyond the Keyboard
+## 🎮 Beyond the keyboard
 
 - 🏸 **Badminton** — Interclub Championship (4th league)  
   *Perly-Certoux Club (since 2017)*  
