@@ -43,9 +43,7 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ### 🗄️ Databases
 - **MySQL**  
-- **PostgreSQL**  
-- **MongoDB**  
-- **Knowledge Graphs & Ontologies** 🧠
+- **Knowledge Graphs & Ontologies** 🧠 
 
 ---
 
@@ -67,11 +65,6 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 📅 **Graduated: February 2022**  
 - **Overall Average:** **4.75 / 6**
 
----
-
-🎓 **Baccalaureate ES (Economic & Social)**  
-*La Présentation de Marie, France*  
-📅 **2016**
 
 ---
 
