@@ -1,4 +1,4 @@
-# 🚀 Junior Developer With a Taste for Cloud & Clever Code
+# 🚀 Junior Developer With a Taste for Cloud & DevOps fields
 
 Hi 👋 I’m **Matthias Jutzi**, a junior developer who enjoys turning complex systems into things that *actually work*.  
 Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic background and a growing obsession with **clean architectures**.
