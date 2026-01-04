@@ -76,8 +76,6 @@
 - **2023: Software Developer at EyeSmart, Geneva**  
   - Created an image recognition chatbot solution to improve user experience and automate responses using Rasa framework
 
-- **2020–2022: Communal Agent, Commune of Perly-Certoux**  
-  - Responsible for green spaces maintenance
 
 ---
 
