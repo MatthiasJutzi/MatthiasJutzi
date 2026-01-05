@@ -17,7 +17,6 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 📫 **Reach me at:**  
 📧 **matthias.jutzi@bluewin.ch**
-
 🔗 **LinkedIn:** www.linkedin.com/in/matthias-jutzi
 
 ---
