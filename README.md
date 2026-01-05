@@ -51,12 +51,12 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 🎓 **Master’s Degree – Digital Systems & Services (S&SN)**  
 *University of Geneva – CUI*  
-📅 **Expected: September 2025**
-
+📅 **Draduated: September 2025**
+- **Overall Average:** **5.42 / 6**
+- 
 - **Master’s Thesis:**  
   *Exploitation of data stored in knowledge graphs and creation of Archive AI (Ontology-based application)*  
 - **Thesis Grade:** ⭐ **5.75 / 6**  
-- **Overall Average:** **5.42 / 6**
 
 ---
 
