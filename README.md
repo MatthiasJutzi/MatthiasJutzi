@@ -53,7 +53,7 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 *University of Geneva – CUI*  
 📅 **Draduated: September 2025**
 - **Overall Average:** **5.42 / 6**
-- 
+ 
 - **Master’s Thesis:**  
   *Exploitation of data stored in knowledge graphs and creation of Archive AI (Ontology-based application)*  
 - **Thesis Grade:** ⭐ **5.75 / 6**  
