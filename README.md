@@ -1,6 +1,6 @@
-# 🚀 Junior Developer with a taste for Cloud & DevOps fields
+#  Junior MLOPS
 
-Hi 👋 I’m **Matthias Jutzi**, a junior developer who enjoys turning complex systems into things that *actually work*.  
+Hi  I’m **Matthias Jutzi**, a junior developer who enjoys turning complex systems into things that *actually work*.  
 Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic background and a growing obsession with **clean architectures**.
 
 > *“Build it properly, automate it wisely, and document it like someone else has to maintain it.”*  
@@ -8,113 +8,37 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ---
 
-## 🎯 What I’m working on
+##  What I’m working on
 
-🌱 **Currently Learning**
+ **Currently Learning**
 - Microsoft **Azure** & cloud services  
 - **GitHub workflows**, CI/CD, and DevOps best practices  
 - Turning academic theory into **production-ready solutions**
 
-📫 **Reach me at:**  
-- 📧 **matthias.jutzi@bluewin.ch**
-- 🔗 **LinkedIn:** www.linkedin.com/in/matthias-jutzi
+ **Reach me at:**  
+-  **matthias.jutzi@bluewin.ch**
+-  **LinkedIn:** www.linkedin.com/in/matthias-jutzi
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ### 💻 Programming languages
-- **Python** 🐍  
-- **JavaScript** ⚡  
-- **SPARQL** (yes, I enjoy querying graphs)
+- **Python**   
+- **JavaScript**⚡  
+- **SPARQL** 
 
-### 🧩 Frameworks & Libraries
+###  Frameworks & Libraries
 - **React.js**, **Angular**  
 - **FastAPI**, **Flask**  
 - **Node.js**  
-- **PyTorch** (when AI gets involved)
+- **PyTorch** 
 
-### ☁️ Cloud, DevOps & Orchestration
-- **Docker** 🐳  
+### Cloud, DevOps & Orchestration
+- **Docker**  
 - **Kubernetes** & **Helm**  
-- **Azure** *(in progress — certifications loading…)*  
 - **Git** (GitHub & GitLab)
 
-### 🗄️ Databases
+###  Databases
 - **MySQL**  
-- **Knowledge Graphs & Ontologies** 🧠 
-
----
-
-## 🎓 Education
-
-🎓 **Master’s Degree – Digital Systems & Services (S&SN)**  
-*University of Geneva – CUI*  
-📅 **Draduated: September 2025**
-- **Overall Average:** **5.42 / 6**
- 
-- **Master’s Thesis:**  
-  *Exploitation of data stored in knowledge graphs and creation of Archive AI (Ontology-based application)*  
-- **Thesis Grade:** ⭐ **5.75 / 6**  
-
----
-
-🎓 **Bachelor’s Degree – Information Systems & Service Science (SISS)**  
-*University of Geneva – CUI*  
-📅 **Graduated: February 2022**  
-- **Overall Average:** **4.75 / 6**
-
-
----
-
-## 🛠️ Professional experience
-
-### 💡 Hackathon Developer (2023–2024)
-- **ITU**  
-- **WSIS +20 Forum**  
-- **United Nations (ONU 2024)**  
-
-Fast-paced teamwork, real-world problem solving, and shipping under pressure.
-
----
-
-### 🌐 Web Developer — *Movement Tribe Geneva* (2024)
-- Built a **full gym website**
-- Frontend, backend, and database
-- Focus on **usability**, **performance**, and **maintainability**
-
----
-
-### 🤖 Software Developer — *EyeSmart, Geneva* (2023)
-- Developed an **image recognition chatbot**
-- Improved **user experience** & automated responses
-- Built using the **Rasa framework**
-
----
-
-## 🪖 Military service
-
-🎖 **Telematics Soldier — Recruit school (IK RS 61-1)**  
-📍 Frauenfeld TG  
-📅 January – May 2022  
-
-- Service completed  
-- **Days remaining:** 41
-
----
-
-## 🎮 Beyond the keyboard
-
-- 🏸 **Badminton** — Interclub Championship (4th league)  
-  *Perly-Certoux Club (since 2017)*  
-- 🎬 Cinema enthusiast  
-- 🧠 Tech & AI curiosity-driven projects  
-- 📊 Databases, ML experiments, and side projects
-
----
-
-## 🌍 Languages
-
-- 🇫🇷 **French:** Native  
-- 🇬🇧 **English:** B2  
-- 🇩🇪 **German:** Basic knowledge
+- **Knowledge Graphs & Ontologies**  
