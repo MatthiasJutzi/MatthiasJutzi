@@ -23,9 +23,9 @@ Currently leveling up in **IT, Cloud, and DevOps**, with a strong academic backg
 
 ## Skills
 
-### 💻 Programming languages
+### Programming languages
 - **Python**   
-- **JavaScript**⚡  
+- **JavaScript**  
 - **SPARQL** 
 
 ###  Frameworks & Libraries
